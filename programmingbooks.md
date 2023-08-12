@@ -1,3 +1,8 @@
+### shell, vim, git, etc.
+
+* [The Linux Command Line by William Shotts](https://www.linuxcommand.org/tlcl.php)
+
+
 ### JavaScript
 
 * [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net)
