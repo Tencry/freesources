@@ -1,6 +1,7 @@
 ### shell, vim, git, etc.
 
 * [The Linux Command Line by William Shotts](https://www.linuxcommand.org/tlcl.php)
+* [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/ru/v2)
 
 
 ### JavaScript
