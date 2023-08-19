@@ -1,3 +1,3 @@
 
 ### Douglas Crockford: 
-* [https://youtu.be/t9YLtDJZtPY](Quality, 2007)
+* [Quality, 2007](https://youtu.be/t9YLtDJZtPY)
