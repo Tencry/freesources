@@ -1,6 +1,6 @@
 ### shell, vim, git, etc.
 
-* [The Linux Command Line by William Shotts](https://www.linuxcommand.org/tlcl.php)
+* [The Linux Command Line by William Shotts](https://www.linuxcommand.org/tlcl.php) [mirror](TLCL-19.01.pdf)
 * [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 
 
